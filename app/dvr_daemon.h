@@ -1,4 +1,3 @@
-/* app/dvr_daemon.h  主控程序守护进程*/
 #ifndef DVR_DAEMON_H
 #define DVR_DAEMON_H
 
